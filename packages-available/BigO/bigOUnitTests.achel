@@ -1,0 +1,4 @@
+# Unit tests for big O notation. ~ bigO,unitTest,hidden
+
+defineTest big O - hardcode values,
+	bigOHardCode bigOExample,
