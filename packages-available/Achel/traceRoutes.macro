@@ -1,4 +1,0 @@
-# Trace possible routes from one faucet to another. ~ faucet,pipe
-
-tracePipes ~!Global,traceRoutes!~
-nestTemplatesOut pipeRoute,,result,pipes

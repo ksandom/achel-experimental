@@ -1,5 +1,0 @@
-# Display the M2N state ~ debug,m2n
-#onDefine aliasFeature showM2NState,ms
-
-getCategory M2N
-outNow

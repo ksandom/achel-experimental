@@ -1,6 +1,0 @@
-# Load the text user interface ~ tui,ui
-
-load tui2Base
-joinTuiTerminal
-
-registerForEvent Achel,finishEarly,tui2Start

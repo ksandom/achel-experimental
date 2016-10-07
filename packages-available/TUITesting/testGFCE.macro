@@ -1,6 +1,0 @@
-# Test generateFaucetCatalogEntry ~ test
-
-testMeta
-cd bob
-generateFaucetCatalogEntry
-
