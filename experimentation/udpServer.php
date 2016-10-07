@@ -11,7 +11,7 @@ $length = 1024;
 
 while (true)
 {
-	if ($gotBytes = socket_recv ( $socket , $buffer , $length , MSG_DONTWAIT ))
+	if ($gotBytes = socket_recv($socket , $buffer , $length , MSG_DONTWAIT))
 	{
 		print "\nGot $gotBytes bytes: $buffer";
 	}
