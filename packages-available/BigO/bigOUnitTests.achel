@@ -1,4 +1,9 @@
 # Unit tests for big O notation. ~ bigO,unitTest,hidden
 
 defineTest big O - hardcode values,
-	bigOHardCode bigOExample,
+	bigOHardCode bigOExample,1,2,3,4
+	
+	expect 1,~!BigOFeatures,bigOExample,a!~
+	expect 2,~!BigOFeatures,bigOExample,b!~
+	expect 3,~!BigOFeatures,bigOExample,c!~
+	expect 4,~!BigOFeatures,bigOExample,d!~

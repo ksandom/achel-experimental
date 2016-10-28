@@ -1,3 +1,7 @@
-# Hardcode big O values for a feature. --bigOHardCode=featureName, ~ bigO
+# Hardcode big O values for a feature. --bigOHardCode=featureName,a,b,c,d where O(a+(b^c)*d) ~ bigO,internal
+parameters {"featureName":"", "a":"0", "b":"0", "c":"0", "d":"0"}
 
-pass
+setNested BigOFeatures,~!Local,featureName!~,a,~!Local,a!~
+setNested BigOFeatures,~!Local,featureName!~,b,~!Local,b!~
+setNested BigOFeatures,~!Local,featureName!~,c,~!Local,c!~
+setNested BigOFeatures,~!Local,featureName!~,d,~!Local,d!~
