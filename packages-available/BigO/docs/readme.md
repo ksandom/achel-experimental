@@ -1,5 +1,7 @@
 # Big-O
 
+Recently I tried to explain bigO notation to someone, and I didn't do a very good job. It seemed time to fix that.
+
 Have a go at generating approximate big O notation for any given feature.
 
 ## Assumptions
