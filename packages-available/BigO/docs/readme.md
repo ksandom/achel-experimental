@@ -56,7 +56,7 @@ An actual nested loop
 
 notation
 
-    
+    O(N*(1+N))
 
 Assumptions
 
