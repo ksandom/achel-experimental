@@ -1,1 +1,1 @@
-{"name":"tui","tui":{"packages":{"BASE":{"sourceRepo":"achel","packageRegex":".*"},"SELF":{"sourceRepo":"tui","packageRegex":".*"},"mass":{"sourceRepo":"mass","packageRegex":".*"}},"name":"tui","description":"Text User Interface for mass.","execName":"tui"}}
+{"name":"ae","ae":{"packages":{"BASE":{"sourceRepo":"achel","packageRegex":".*"},"SELF":{"sourceRepo":"ae","packageRegex":".*"}},"name":"ae","description":"Place for Achel experimentation.","execName":"ae"}}
