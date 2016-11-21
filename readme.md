@@ -1,3 +1,5 @@
+*status:* Active. Although you probably want to go [here](https://github.com/ksandom/achel)
+
 # achel-experimental
 
 Stuff that isn't quite ready to be in the main achel repository.
