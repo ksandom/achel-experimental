@@ -1,0 +1,17 @@
+# Derive bigO values for a given function. --bigODerive=featureName ~ bigO
+parameters featureName
+
+isolate
+	searchHelp all
+	requireItem name,~!Local,featureName!~
+	loop FeatureDetails
+		if ~!BigOFeatures,~!Local,featureName!~,a!~,==,,
+			if ~!FeatureDetails,isMacro!~,==,True,
+				# TODO 
+				pass
+			else
+				# TODO
+				pass
+		else
+			# TODO pull out of storage
+			pass
